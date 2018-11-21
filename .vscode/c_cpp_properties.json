@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "includePath": [
+                "\\lib\\gcc\\mingw32\\6.3.0\\include\\c++"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE"
+            ],
+            "compilerPath": "\\bin\\g++.exe",
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
